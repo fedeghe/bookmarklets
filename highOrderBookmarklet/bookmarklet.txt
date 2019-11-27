@@ -1,0 +1,1 @@
+javascript:void%20function(){(function%20c()%20%7B%0A%20%20var%20code%20%3D%20prompt('Paste%20here%20Your%20code')%3B%0A%20%20code%20%26%26%20prompt('Here%5C%60s%20the%20bookmarklet%20code'%2C%20%22javascript%3Avoid%2520function()%7B%22%20%2B%20encodeURIComponent(code%20%2B%20'')%20%2B%20%22%7D()%3B%22)%3B%0A%7D)()}();
